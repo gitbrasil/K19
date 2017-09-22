@@ -5,7 +5,7 @@
  */
 package com.k19;
 
-public class K19_E06_Printf {
+public class K19_C01_E06_Printf {
 
     public static void main(String[] args) {
 
