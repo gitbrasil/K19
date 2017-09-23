@@ -1,11 +1,11 @@
 /**
- * Cap 01 - Cod 06 - Variaveis
- * Aug 30, 2017 - Learning Java-Eclipse
+ * Cap 02 - Cod 06 - Variaveis
+ * set 22, 2017 - Learning Java-Netbeans
  * sergio.torres@outlook.com
  */
 package com.k19;
 
-public class K19_C01_C06_Variaveis {
+public class K19_C02_C06_Variaveis {
 
     public static void main(String[] args) {
 
